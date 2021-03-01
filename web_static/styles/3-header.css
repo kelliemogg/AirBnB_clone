@@ -5,9 +5,8 @@ header {
   border-bottom: 1px solid #CCCCCC;
 }
 .logo {
-  background-image: url(images/logo.png);
-  height: 60px;
-  width: 140px;
+  background-image: url("/AirBnB_clone/web_static/images/logo.png");
   margin-left: 20px;
-  margin-top: 1;
+  width: 142px;
+  height: 60px;
 }

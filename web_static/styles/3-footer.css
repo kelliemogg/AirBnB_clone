@@ -7,8 +7,10 @@ footer {
     text-align: center;
     line-height: 60px;
     border-top: 1px #CCCCCC solid;
+    display: table;
 }
-
 p {
-    text-align: center;
+    line-height: 60px;
+    display: table-cell;
+    vertical-align: middle;
 }
