@@ -6,5 +6,11 @@ position: absolute;
 height:60px;
 width:100%;
 text-align: center;
-line-height: 60px;
+display: table;
+}
+p
+{
+    line-height: 60px;
+    display: table-cell;
+    vertical-align: middle;
 }
