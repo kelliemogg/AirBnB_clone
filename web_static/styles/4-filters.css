@@ -3,7 +3,7 @@ background-color: #FFFFFF;
 height: 70px;
 width: 100%;
 border: 1px #DDDDDD solid;
-border-radius: 100%;
+border-radius: 1px;
 }
 section.filters button {
 font-size: 18px;
